@@ -26,9 +26,6 @@ This is a Python-based graphical calendar application using `tkinter`. The app a
 
 3. Use the `<` and `>` buttons to navigate between months.
 
-## Example
-
-![Screenshot of Simple Calendar App](example.png)
 
 ## License
 
